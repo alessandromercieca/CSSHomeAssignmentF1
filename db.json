@@ -1,0 +1,64 @@
+{
+    "Teams": [
+        {
+            "ID": 0,
+            "Name": "Alfa Romeo",
+            "Driver 01":  "Valtteri Bottas",
+            "Driver 02": "Zhou Guanyu"
+        },
+        {
+            "ID": 1,
+            "Name": "AlphaTauri",
+            "Driver 01":  "Pierre Gasly",
+            "Driver 02": "Yuki Tsunoda"
+        },
+        {
+            "ID": 2,
+            "Name": "Alpine",
+            "Driver 01":  "Esteban Ocon",
+            "Driver 02": "Fernando Alonso"
+        },
+        {
+            "ID": 3,
+            "Name": "Aston Martin",
+            "Driver 01":  "Lance Stroll",
+            "Driver 02": "Sebastian Vettel"
+        },
+        {
+            "ID": 4,
+            "Name": "Ferrari",
+            "Driver 01":  "Charles Leclerc",
+            "Driver 02": "Carlos Sainz" 
+        },
+        {
+            "ID": 5,
+            "Name": "Haas F1 Team",
+            "Driver 01":  "Kevin Magnussen",
+            "Driver 02": "Mick Schumacher"
+        },
+        {
+            "ID": 6,
+            "Name": "McLaren",
+            "Driver 01":  "Daniel Ricciardo",
+            "Driver 02": "Lando Norris"
+        },
+        {
+            "ID": 7,
+            "Name": "Mercedes",
+            "Driver 01":  "George Russel",
+            "Driver 02": "Lewis Hamilton"
+        },
+        {
+            "ID": 8,
+            "Name": "Red Bull Racing",
+            "Driver 01":  "Sergio Perez",
+            "Driver 02": "Max Verstappen"
+        },      
+        {
+            "ID": 9,
+            "Name": "Williams",
+            "Driver 01":  "Nicholas Latifi",
+            "Driver 02": "Alexander Albon"
+        }
+    ]
+}
