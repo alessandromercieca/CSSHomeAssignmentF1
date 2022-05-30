@@ -279,36 +279,6 @@
                 }
             ]
         },
-        {
-            "ID": 9,
-            "Name": "Williams",
-            "Color": "#37BEDD",
-            "Logo": "Williams.jpg",
-            "Base": "United Kingdom",
-            "Chassi": "FW44",
-            "PowerUnit": "Mercedes",
-            "TeamEntry": 1978,
-            "WorldChamp": 9,
-            "Drivers": [
-                {
-                    "ID": 0,
-                    "Name": "Nicholas Latifi",
-                    "DriverNumber": 6,
-                    "DriverImage": "Nicholas Latifi.jpg",
-                    "BirthYear": "29/06/1995",
-                    "Country": "Canada",
-                    "WorldChamp": 0
-                },
-                {
-                    "ID": 1,
-                    "Name": "Alexander Albon",
-                    "DriverNumber": 23,
-                    "DriverImage": "Alexander Albon.jpg",
-                    "BirthYear": "23/03/1996",
-                    "Country": "England",
-                    "WorldChamp": 0
-                }
-            ]
-        }
+        
     ]
 }
