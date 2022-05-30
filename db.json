@@ -4,30 +4,27 @@
             "ID": 0,
             "Name": "Alfa Romeo",
             "Color": "C92D4B",
-            "Logo": "Alfa Romeo.png",
             "Base": "Switzerland",
             "Chassi": "C42",
             "PowerUnit": "Ferrari",
             "TeamEntry": 1993,
-            "WorldChamp": 0,
+            "WorldChampionships": 0,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Valtteri Bottas",
                     "DriverNumber": 77,
-                    "DriverImage": "Valtteri Bottas.jpg",
-                    "BirthYear": "28/08/1989",
+                    "DateOfBirth": "28/08/1989",
                     "Country": "Finland",
-                    "WorldChamp": 0
+                    "WorldChampionships": 0
                 },
                 {
                     "ID": 1,
                     "Name": "Zhou Guanyu",
                     "DriverNumber": 24,
-                    "DriverDriverImage": "Zhou Guanyu.jpg",
-                    "BirthYear": "30/05/1999",
+                    "DateOfBirth": "30/05/1999",
                     "Country": "China",
-                    "WorldChamp": 0
+                    "WorldChampionships": 0
                 }
             ]
         },
@@ -35,30 +32,27 @@
             "ID": 1,
             "Name": "AlphaTauri",
             "Color": "#5E8FAA",
-            "Logo": "AlphaTauri.jpg",
             "Base": "Italy",
             "Chassi": "AT03",
             "PowerUnit": "Red Bull",
             "TeamEntry": 1985,
-            "WorldChamp": 0,
+            "WorldChampionships": 0,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Pierre Gasly",
                     "DriverNumber": 10,
-                    "DriverImage": "Pierre Gasly.jpg",
-                    "BirthYear": "07/02/1996",
+                    "DateOfBirth": "07/02/1996",
                     "Country": "France",
-                    "WorldChamp": 0
+                    "WorldChampionships": 0
                 },
                 {
                     "ID": 1,
                     "Name": "Yuki Tsunoda",
                     "DriverNumber": 22,
-                    "DriverImage": "Yuki Tsunoda.jpg",
-                    "BirthYear": "11/05/2000",
+                    "DateOfBirth": "11/05/2000",
                     "Country": "Japan",
-                    "WorldChamp": 0
+                    "WorldChampionships": 0
                 }
             ]
         },
@@ -66,30 +60,27 @@
             "ID": 2,
             "Name": "Alpine",
             "Color": "#2293D1",
-            "Logo": "Alpine.jpg",
             "Base": "United Kingdom",
             "Chassi": "A522",
             "PowerUnit": "Renault",
             "TeamEntry": 1986,
-            "WorldChamp": 2,
+            "WorldChampionships": 2,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Fernando Alonso",
                     "DriverNumber": 14,
-                    "DriverImage": "Fernando Alonso.jpg",
-                    "BirthYear": "29/07/1981",
+                    "DateOfBirth": "29/07/1981",
                     "Country": "Spain",
-                    "WorldChamp": 2
+                    "WorldChampionships": 2
                 },
                 {
                     "ID": 1,
                     "Name": "Esteban Ocon",
                     "DriverNumber": 31,
-                    "DriverImage": "Esteban Ocon.jpg",
-                    "BirthYear": "17/09/1996",
+                    "DateOfBirth": "17/09/1996",
                     "Country": "Normandy",
-                    "WorldChamp": 0
+                    "WorldChampionships": 0
                 }
             ]
         },
@@ -97,30 +88,27 @@
             "ID": 3,
             "Name": "Aston Martin",
             "Color": "#358C75",
-            "Logo": "Aston Martin.jpg",
             "Base": "United Kingdom",
             "Chassi": "AMR22",
             "PowerUnit": "Mercedes",
             "TeamEntry": 2018,
-            "WorldChamp": 0,
+            "WorldChampionships": 0,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Sebastian Vettel",
                     "DriverNumber": 5,
-                    "DriverImage": "Sebastian Vettel.jpg",
-                    "BirthYear": "03/07/1987",
+                    "DateOfBirth": "03/07/1987",
                     "Country": "Germany",
-                    "WorldChamp": 4
+                    "WorldChampionships": 4
                 },
                 {
                     "ID": 1,
                     "Name": "Lance Stroll",
                     "DriverNumber": 18,
-                    "DriverImage": "Lance Stroll.jpg",
-                    "BirthYear": "29/10/1998",
+                    "DateOfBirth": "29/10/1998",
                     "Country": "Canada",
-                    "WorldChamp": 0
+                    "WorldChampionships": 0
                 }
             ]
         },
@@ -128,30 +116,27 @@
             "ID": 4,
             "Name": "Ferrari",
             "Color": "#F91536",
-            "Logo": "Ferrari.jpg",
             "Base": "Italy",
             "Chassi": "AT03",
             "PowerUnit": "Ferrari",
             "TeamEntry": 1950,
-            "WorldChamp": 16,
+            "WorldChampionships": 16,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Charles Leclerc",
                     "DriverNumber": 16,
-                    "DriverImage": "Charles Leclerc.jpg",
-                    "BirthYear": "16/10/1997",
+                    "DateOfBirth": "16/10/1997",
                     "Country": "Monaco",
-                    "WorldChamp": 0
+                    "WorldChampionships": 0
                 },
                 {
                     "ID": 1,
                     "Name": "Carlos Sainz",
                     "DriverNumber": 55,
-                    "DriverImage": "Carlos Sainz.jpg",
-                    "BirthYear": "01/09/1994",
+                    "DateOfBirth": "01/09/1994",
                     "Country": "Spain",
-                    "WorldChamp": 0
+                    "WorldChampionships": 0
                 }
             ]
         },
@@ -159,30 +144,27 @@
             "ID": 5,
             "Name": "Haas",
             "Color": "#B6BABD",
-            "Logo": "Haas.jpg",
             "Base": "United States",
             "Chassi": "VF-22",
             "PowerUnit": "Ferrari",
             "TeamEntry": 2016,
-            "WorldChamp": 0,
+            "WorldChampionships": 0,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Mick Schumacher",
                     "DriverNumber": 47,
-                    "DriverImage": "Mick Schumacher.jpg",
-                    "BirthYear": "22/03/1999",
+                    "DateOfBirth": "22/03/1999",
                     "Country": "Switzerland",
-                    "WorldChamp": 0
+                    "WorldChampionships": 0
                 },
                 {
                     "ID": 1,
                     "Name": "Kevin Magnussen",
                     "DriverNumber": 20,
-                    "DriverImage": "Kevin Magnussen.jpg",
-                    "BirthYear": "05/10/1992",
+                    "DateOfBirth": "05/10/1992",
                     "Country": "Denmark",
-                    "WorldChamp": 0
+                    "WorldChampionships": 0
                 }
             ]
         },
@@ -190,30 +172,27 @@
             "ID": 6,
             "Name": "McLaren",
             "Color": "#F58020",
-            "Logo": "McLaren.jpg",
             "Base": "United Kingdom",
             "Chassi": "MCL36",
             "PowerUnit": "Mercedes",
             "TeamEntry": 1966,
-            "WorldChamp": 8,
+            "WorldChampionships": 8,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Daniel Ricciardo",
                     "DriverNumber": 3,
-                    "DriverImage": "Daniel Ricciardo.jpg",
-                    "BirthYear": "01/07/1989",
+                    "DateOfBirth": "01/07/1989",
                     "Country": "Australia",
-                    "WorldChamp": 0
+                    "WorldChampionships": 0
                 },
                 {
                     "ID": 1,
                     "Name": "Lando Norris",
                     "DriverNumber": 4,
-                    "DriverImage": "Lando Norris.jpg",
-                    "BirthYear": "13/11/1999",
+                    "DateOfBirth": "13/11/1999",
                     "Country": "England",
-                    "WorldChamp": 0
+                    "WorldChampionships": 0
                 }
             ]
         },
@@ -221,30 +200,27 @@
             "ID": 7,
             "Name": "Mercedes",
             "Color": "#6CD3BF",
-            "Logo": "Mercedes.jpg",
             "Base": "United Kingdom",
             "Chassi": "W13",
             "PowerUnit": "Mercedes",
             "TeamEntry": 1970,
-            "WorldChamp": 8,
+            "WorldChampionships": 8,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Lewis Hamilton",
                     "DriverNumber": 44,
-                    "DriverImage": "Lewis Hamilton.jpg",
-                    "BirthYear": "07/01/1985",
+                    "DateOfBirth": "07/01/1985",
                     "Country": "England",
-                    "WorldChamp": 7
+                    "WorldChampionships": 7
                 },
                 {
                     "ID": 1,
                     "Name": "George Russell",
                     "DriverNumber": 63,
-                    "DriverImage": "George Russell.jpg",
-                    "BirthYear": "15/02/1998",
+                    "DateOfBirth": "15/02/1998",
                     "Country": "England",
-                    "WorldChamp": 0
+                    "WorldChampionships": 0
                 }
             ]
         },
@@ -252,30 +228,27 @@
             "ID": 8,
             "Name": "Red Bull",
             "Color": "#3671C6",
-            "Logo": "Red Bull.jpg",
             "Base": "United Kingdom",
             "Chassi": "RB18",
             "PowerUnit": "Red Bull",
             "TeamEntry": 1997,
-            "WorldChamp": 4,
+            "WorldChampionships": 4,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Max Verstappen",
                     "DriverNumber": 1,
-                    "DriverImage": "Max Verstappen.jpg",
-                    "BirthYear": "30/09/1997",
+                    "DateOfBirth": "30/09/1997",
                     "Country": "Belgium",
-                    "WorldChamp": 1
+                    "WorldChampionships": 1
                 },
                 {
                     "ID": 1,
                     "Name": "Sergio Perez",
                     "DriverNumber": 11,
-                    "DriverImage": "Sergio Perez.jpg",
-                    "BirthYear": "26/01/1990",
+                    "DateOfBirth": "26/01/1990",
                     "Country": "Mexico",
-                    "WorldChamp": 0
+                    "WorldChampionships": 0
                 }
             ]
         },
@@ -283,30 +256,27 @@
             "ID": 9,
             "Name": "Williams",
             "Color": "#37BEDD",
-            "Logo": "Williams.jpg",
             "Base": "United Kingdom",
             "Chassi": "FW44",
             "PowerUnit": "Mercedes",
             "TeamEntry": 1978,
-            "WorldChamp": 9,
+            "WorldChampionships": 9,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Nicholas Latifi",
                     "DriverNumber": 6,
-                    "DriverImage": "Nicholas Latifi.jpg",
-                    "BirthYear": "29/06/1995",
+                    "DateOfBirth": "29/06/1995",
                     "Country": "Canada",
-                    "WorldChamp": 0
+                    "WorldChampionships": 0
                 },
                 {
                     "ID": 1,
                     "Name": "Alexander Albon",
                     "DriverNumber": 23,
-                    "DriverImage": "Alexander Albon.jpg",
-                    "BirthYear": "23/03/1996",
+                    "DateOfBirth": "23/03/1996",
                     "Country": "England",
-                    "WorldChamp": 0
+                    "WorldChampionships": 0
                 }
             ]
         }
