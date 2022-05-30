@@ -9,25 +9,25 @@
             "Chassi": "C42",
             "PowerUnit": "Ferrari",
             "TeamEntry": 1993,
-            "WorldChampionships": 0,
+            "WordChamp": 0,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Valtteri Bottas",
                     "DriverNumber": 77,
                     "DriverImage": "Valtteri Bottas.jpg",
-                    "DateOfBirth": "28/08/1989",
+                    "BirthYear": "28/08/1989",
                     "Country": "Finland",
-                    "WorldChampionships": 0
+                    "WordChamp": 0
                 },
                 {
                     "ID": 1,
                     "Name": "Zhou Guanyu",
                     "DriverNumber": 24,
                     "DriverDriverImage": "Zhou Guanyu.jpg",
-                    "DateOfBirth": "30/05/1999",
+                    "BirthYear": "30/05/1999",
                     "Country": "China",
-                    "WorldChampionships": 0
+                    "WordChamp": 0
                 }
             ]
         },
@@ -40,25 +40,25 @@
             "Chassi": "AT03",
             "PowerUnit": "Red Bull",
             "TeamEntry": 1985,
-            "WorldChampionships": 0,
+            "WordChamp": 0,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Pierre Gasly",
                     "DriverNumber": 10,
                     "DriverImage": "Pierre Gasly.jpg",
-                    "DateOfBirth": "07/02/1996",
+                    "BirthYear": "07/02/1996",
                     "Country": "France",
-                    "WorldChampionships": 0
+                    "WordChamp": 0
                 },
                 {
                     "ID": 1,
                     "Name": "Yuki Tsunoda",
                     "DriverNumber": 22,
                     "DriverImage": "Yuki Tsunoda.jpg",
-                    "DateOfBirth": "11/05/2000",
+                    "BirthYear": "11/05/2000",
                     "Country": "Japan",
-                    "WorldChampionships": 0
+                    "WordChamp": 0
                 }
             ]
         },
@@ -71,25 +71,25 @@
             "Chassi": "A522",
             "PowerUnit": "Renault",
             "TeamEntry": 1986,
-            "WorldChampionships": 2,
+            "WordChamp": 2,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Fernando Alonso",
                     "DriverNumber": 14,
                     "DriverImage": "Fernando Alonso.jpg",
-                    "DateOfBirth": "29/07/1981",
+                    "BirthYear": "29/07/1981",
                     "Country": "Spain",
-                    "WorldChampionships": 2
+                    "WordChamp": 2
                 },
                 {
                     "ID": 1,
                     "Name": "Esteban Ocon",
                     "DriverNumber": 31,
                     "DriverImage": "Esteban Ocon.jpg",
-                    "DateOfBirth": "17/09/1996",
+                    "BirthYear": "17/09/1996",
                     "Country": "Normandy",
-                    "WorldChampionships": 0
+                    "WordChamp": 0
                 }
             ]
         },
@@ -102,25 +102,25 @@
             "Chassi": "AMR22",
             "PowerUnit": "Mercedes",
             "TeamEntry": 2018,
-            "WorldChampionships": 0,
+            "WordChamp": 0,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Sebastian Vettel",
                     "DriverNumber": 5,
                     "DriverImage": "Sebastian Vettel.jpg",
-                    "DateOfBirth": "03/07/1987",
+                    "BirthYear": "03/07/1987",
                     "Country": "Germany",
-                    "WorldChampionships": 4
+                    "WordChamp": 4
                 },
                 {
                     "ID": 1,
                     "Name": "Lance Stroll",
                     "DriverNumber": 18,
                     "DriverImage": "Lance Stroll.jpg",
-                    "DateOfBirth": "29/10/1998",
+                    "BirthYear": "29/10/1998",
                     "Country": "Canada",
-                    "WorldChampionships": 0
+                    "WordChamp": 0
                 }
             ]
         },
@@ -133,25 +133,25 @@
             "Chassi": "AT03",
             "PowerUnit": "Ferrari",
             "TeamEntry": 1950,
-            "WorldChampionships": 16,
+            "WordChamp": 16,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Charles Leclerc",
                     "DriverNumber": 16,
                     "DriverImage": "Charles Leclerc.jpg",
-                    "DateOfBirth": "16/10/1997",
+                    "BirthYear": "16/10/1997",
                     "Country": "Monaco",
-                    "WorldChampionships": 0
+                    "WordChamp": 0
                 },
                 {
                     "ID": 1,
                     "Name": "Carlos Sainz",
                     "DriverNumber": 55,
                     "DriverImage": "Carlos Sainz.jpg",
-                    "DateOfBirth": "01/09/1994",
+                    "BirthYear": "01/09/1994",
                     "Country": "Spain",
-                    "WorldChampionships": 0
+                    "WordChamp": 0
                 }
             ]
         },
@@ -164,25 +164,25 @@
             "Chassi": "VF-22",
             "PowerUnit": "Ferrari",
             "TeamEntry": 2016,
-            "WorldChampionships": 0,
+            "WordChamp": 0,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Mick Schumacher",
                     "DriverNumber": 47,
                     "DriverImage": "Mick Schumacher.jpg",
-                    "DateOfBirth": "22/03/1999",
+                    "BirthYear": "22/03/1999",
                     "Country": "Switzerland",
-                    "WorldChampionships": 0
+                    "WordChamp": 0
                 },
                 {
                     "ID": 1,
                     "Name": "Kevin Magnussen",
                     "DriverNumber": 20,
                     "DriverImage": "Kevin Magnussen.jpg",
-                    "DateOfBirth": "05/10/1992",
+                    "BirthYear": "05/10/1992",
                     "Country": "Denmark",
-                    "WorldChampionships": 0
+                    "WordChamp": 0
                 }
             ]
         },
@@ -195,25 +195,25 @@
             "Chassi": "MCL36",
             "PowerUnit": "Mercedes",
             "TeamEntry": 1966,
-            "WorldChampionships": 8,
+            "WordChamp": 8,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Daniel Ricciardo",
                     "DriverNumber": 3,
                     "DriverImage": "Daniel Ricciardo.jpg",
-                    "DateOfBirth": "01/07/1989",
+                    "BirthYear": "01/07/1989",
                     "Country": "Australia",
-                    "WorldChampionships": 0
+                    "WordChamp": 0
                 },
                 {
                     "ID": 1,
                     "Name": "Lando Norris",
                     "DriverNumber": 4,
                     "DriverImage": "Lando Norris.jpg",
-                    "DateOfBirth": "13/11/1999",
+                    "BirthYear": "13/11/1999",
                     "Country": "England",
-                    "WorldChampionships": 0
+                    "WordChamp": 0
                 }
             ]
         },
@@ -226,25 +226,25 @@
             "Chassi": "W13",
             "PowerUnit": "Mercedes",
             "TeamEntry": 1970,
-            "WorldChampionships": 8,
+            "WordChamp": 8,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Lewis Hamilton",
                     "DriverNumber": 44,
                     "DriverImage": "Lewis Hamilton.jpg",
-                    "DateOfBirth": "07/01/1985",
+                    "BirthYear": "07/01/1985",
                     "Country": "England",
-                    "WorldChampionships": 7
+                    "WordChamp": 7
                 },
                 {
                     "ID": 1,
                     "Name": "George Russell",
                     "DriverNumber": 63,
                     "DriverImage": "George Russell.jpg",
-                    "DateOfBirth": "15/02/1998",
+                    "BirthYear": "15/02/1998",
                     "Country": "England",
-                    "WorldChampionships": 0
+                    "WordChamp": 0
                 }
             ]
         },
@@ -257,25 +257,25 @@
             "Chassi": "RB18",
             "PowerUnit": "Red Bull",
             "TeamEntry": 1997,
-            "WorldChampionships": 4,
+            "WordChamp": 4,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Max Verstappen",
                     "DriverNumber": 1,
                     "DriverImage": "Max Verstappen.jpg",
-                    "DateOfBirth": "30/09/1997",
+                    "BirthYear": "30/09/1997",
                     "Country": "Belgium",
-                    "WorldChampionships": 1
+                    "WordChamp": 1
                 },
                 {
                     "ID": 1,
                     "Name": "Sergio Perez",
                     "DriverNumber": 11,
                     "DriverImage": "Sergio Perez.jpg",
-                    "DateOfBirth": "26/01/1990",
+                    "BirthYear": "26/01/1990",
                     "Country": "Mexico",
-                    "WorldChampionships": 0
+                    "WordChamp": 0
                 }
             ]
         },
@@ -288,25 +288,25 @@
             "Chassi": "FW44",
             "PowerUnit": "Mercedes",
             "TeamEntry": 1978,
-            "WorldChampionships": 9,
+            "WordChamp": 9,
             "Drivers": [
                 {
                     "ID": 0,
                     "Name": "Nicholas Latifi",
                     "DriverNumber": 6,
                     "DriverImage": "Nicholas Latifi.jpg",
-                    "DateOfBirth": "29/06/1995",
+                    "BirthYear": "29/06/1995",
                     "Country": "Canada",
-                    "WorldChampionships": 0
+                    "WordChamp": 0
                 },
                 {
                     "ID": 1,
                     "Name": "Alexander Albon",
                     "DriverNumber": 23,
                     "DriverImage": "Alexander Albon.jpg",
-                    "DateOfBirth": "23/03/1996",
+                    "BirthYear": "23/03/1996",
                     "Country": "England",
-                    "WorldChampionships": 0
+                    "WordChamp": 0
                 }
             ]
         }
